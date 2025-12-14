@@ -5,6 +5,9 @@ where passengers arrive at the airport and go through various service points suc
 boarding. The simulation allows users to configure various parameters such as arrival time between passengers, number 
 of passengers traveling out of the EU, simulation time, and delay.
 
+## Demo Video
+[Watch the demo on YouTube](https://youtu.be/kAXP5fTSJqc)
+
 ## How to use
 
 In the simulation interface the user has the option to configure the simulation using the parameters given to the user 
